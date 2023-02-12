@@ -1,0 +1,59 @@
+*{
+    margin: 0; 
+    padding: 0;
+    border: 0; 
+    outline: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+} 
+
+:root (
+
+
+--color-primary: 13 
+--color-success: #00bf8e;
+
+#6c63ff:
+
+--color-warning: #f7c94b;
+
+--color-danger: #f75842;
+
+ --color-danger-variant: rgba(247, 88, 66, 0.4);
+
+
+
+--color-white: #fff;
+
+18 --color-light: rgba(255, 255, 255, 0.7);
+
+--color-black: #000;
+
+20
+
+--color-bg: #1f2641;
+
+21 --color-bg1: #2e3267;
+
+22 23
+
+--color-bg2: #424890;
+
+24 --container-width-1g: 76%;
+
+25
+
+--container-width-md: 90%; 26 --container-width-sm: 94%;
+
+27
+
+28
+
+--transition:
+
+all
+
+400ms ease;
+
+29 }
